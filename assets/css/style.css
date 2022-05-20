@@ -7,13 +7,13 @@ body {
     flex-direction: row;
     align-items: flex-start;
     height: 100vh;
-    width: 100%;
+    width: 100vw;
 } 
 
 .chat-section {
     background-color: white;
     height: 100vh;
-    width: 20%;
+    width: 20vw;
     border: 0.5px solid black;
 }
 
@@ -35,7 +35,7 @@ body {
     align-items: center;
     background-color: rgba (248,248,248,255);
     height: 100vh;
-    width: 80%;
+    width: 80vw;
 }
 
 .principal-section img {
@@ -54,7 +54,7 @@ body {
 
 .chat-section div {
     border: 0.5px solid black;
-    height: 15%;
+    height: 10%;
 }
 
 .maria-user {
@@ -63,6 +63,7 @@ body {
     justify-content: space-around;
     align-items: center;
 }
+
 .maria-user p {
     margin-left: ;
 }
@@ -72,5 +73,4 @@ body {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    min-height: ;
 }
