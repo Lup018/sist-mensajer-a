@@ -13,7 +13,7 @@ body {
 
 .chat-section {
     background-color: white;
-    height: 100vh;
+    height: 103%;
     width: 20vw;
     border: 0.5px solid #e8ebe4;
 }
@@ -27,8 +27,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 2.5rem;
-    padding-bottom: 2.5rem;
+    padding-top: 5%;
+    padding-bottom: 5%;
 
 }
 
@@ -36,10 +36,10 @@ button {
     background-color: #A491D2;
     border: none;
     color: white;
-    padding-top: 6%;
-    padding-bottom: 6%;
-    padding-left: 12%;
-    padding-right: 12%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .principal-section {
@@ -48,7 +48,7 @@ button {
     justify-content: center;
     align-items: center;
     background-color: #f8f8f8;
-    height: 100vh;
+    height: 103%;
     width: 80vw;
 }
 
